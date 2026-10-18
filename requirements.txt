@@ -1,0 +1,14 @@
+# Data manipulation
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and preprocessing
+scikit-learn
+imbalanced-learn
+
+# Downloading the dataset from Kaggle
+kagglehub
